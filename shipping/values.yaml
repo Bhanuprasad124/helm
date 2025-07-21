@@ -3,3 +3,6 @@ image:
   tag: latest
   pullPolicy: IfNotPresent
 appMessage: "Shipping Service"
+
+service:
+  port: 80        
